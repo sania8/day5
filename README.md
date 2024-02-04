@@ -1,4 +1,4 @@
-# 🎨 Color Change App with Bootstrap 🌈
+# 🎨 Color Change App with Bootstrap 
 
 Welcome to the Color Change App! This project is a fun and interactive way to explore the capabilities of Bootstrap while creating a dynamic color-changing application.
 
